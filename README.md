@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/learnwithpriyanka/LeetCode/tree/master/0049-group-anagrams) |
 | [0137-single-number-ii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0137-single-number-ii) |
 ## Bit Manipulation
 |  |
@@ -16,5 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/learnwithpriyanka/LeetCode/tree/master/0049-group-anagrams) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/learnwithpriyanka/LeetCode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/learnwithpriyanka/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->

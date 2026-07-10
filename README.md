@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/learnwithpriyanka/LeetCode/tree/master/0049-group-anagrams) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/learnwithpriyanka/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Hash Table
 |  |
 | ------- |

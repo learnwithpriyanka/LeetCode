@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/learnwithpriyanka/LeetCode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/learnwithpriyanka/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/learnwithpriyanka/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/learnwithpriyanka/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/learnwithpriyanka/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/learnwithpriyanka/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/learnwithpriyanka/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Sorting
 |  |
 | ------- |

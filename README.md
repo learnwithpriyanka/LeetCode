@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/learnwithpriyanka/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/learnwithpriyanka/LeetCode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->

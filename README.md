@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/learnwithpriyanka/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/learnwithpriyanka/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/learnwithpriyanka/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0264-ugly-number-ii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0264-ugly-number-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/learnwithpriyanka/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
 |  |
@@ -84,4 +86,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/learnwithpriyanka/LeetCode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->

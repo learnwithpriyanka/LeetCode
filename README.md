@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/learnwithpriyanka/LeetCode/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0260-single-number-iii) |
 ## Two Pointers
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0264-ugly-number-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/learnwithpriyanka/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->

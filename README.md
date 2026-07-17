@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/learnwithpriyanka/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1200-minimum-absolute-difference](https://github.com/learnwithpriyanka/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/learnwithpriyanka/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/learnwithpriyanka/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/learnwithpriyanka/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/learnwithpriyanka/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/learnwithpriyanka/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/learnwithpriyanka/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/learnwithpriyanka/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1200-minimum-absolute-difference](https://github.com/learnwithpriyanka/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/learnwithpriyanka/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/learnwithpriyanka/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/learnwithpriyanka/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/learnwithpriyanka/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0264-ugly-number-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/learnwithpriyanka/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -98,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/learnwithpriyanka/LeetCode/tree/master/0190-reverse-bits) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/learnwithpriyanka/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

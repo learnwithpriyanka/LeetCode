@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/learnwithpriyanka/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/learnwithpriyanka/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/learnwithpriyanka/LeetCode/tree/master/0338-counting-bits) |
 ## Two Pointers
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/learnwithpriyanka/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/learnwithpriyanka/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Number Theory
 |  |
 | ------- |

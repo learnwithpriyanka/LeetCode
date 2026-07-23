@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/learnwithpriyanka/LeetCode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/learnwithpriyanka/LeetCode/tree/master/0338-counting-bits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/learnwithpriyanka/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/learnwithpriyanka/LeetCode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/learnwithpriyanka/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/learnwithpriyanka/LeetCode/tree/master/0264-ugly-number-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/learnwithpriyanka/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0749-contain-virus](https://github.com/learnwithpriyanka/LeetCode/tree/master/0749-contain-virus) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/learnwithpriyanka/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
